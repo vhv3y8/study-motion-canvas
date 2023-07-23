@@ -4,4 +4,5 @@
 
 ## hello-world
 
-![TEST](hello-world/public/hellworld.mp4)
+https://github.com/vhv3y8/study-motion-canvas/assets/57215368/499bfc20-d19d-46e4-b22c-3ec990f537a7
+
